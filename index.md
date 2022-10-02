@@ -18,7 +18,7 @@ Or something along those lines, I'm not sure, it was 8-ish years ago, but the po
 - [x] task list... ? I guess this is it
 - [ ] picture
 Right, I still need a picture. Uhh, let's go with this:
-![](../../../../Downloads/IMG-0492.jpg)
+![](IMG-0492.jpg)
 Wait, why is it backwards? ... Nevermind. So uh, right. I hope you found my stuff interesting, and I hope I didn't come off the wrong way with the way I worded this bio (sorry if I did, it seemed funny to me), and, yeah. Bye!
 
 [Back To Top](index.md#hello)
